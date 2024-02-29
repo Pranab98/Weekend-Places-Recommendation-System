@@ -1,1 +1,1 @@
-# Weekend-Places-Recommendation-System
+# WeekendPlaces-Recommendation-System
