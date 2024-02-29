@@ -36,11 +36,11 @@ You will be prompted to enter the city name. After entering the city name, the s
 ## Approaches Used
 
 Main approach is that we can go to any city irrespective of type,significance on a weekend and top cities are those cities where 
-    1. time needed to visit should be atleast 1 hr(since weekend; we want to spend time)
-    2. rating greater than 4.1 (Considered better)
-    3. number of google review in lakhs should be atleast 0.2
-    4. entrance fee <= 1000
-    5. weekly off should not be sunday (Since weekend; it is recommended not to be closed on atleast sunday. Saturday may not necessarily be holiday in many organisations)
+1. time needed to visit should be atleast 1 hr(since weekend; we want to spend time)
+2. rating greater than 4.1 (Considered better)
+3. number of google review in lakhs should be atleast 0.2
+4. entrance fee <= 1000
+5. weekly off should not be sunday (Since weekend; it is recommended not to be closed on atleast sunday. Saturday may not necessarily be holiday in many organisations)
 
 ## Steps
 
